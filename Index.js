@@ -34,15 +34,6 @@ function play(question, answer) {
   console.log("-----------------------")
 }
 
-// object
-// var questionOne = {
-//   question: "Where do I live? ",
-//   answer: "bina"
-// }
-// var questionTwo = {
-//   question: "What are my favorite colors? ",
-//   answer: "white-yellow"
-// }
 
 var questionAnswer = [{
    question: "Q.01. Where do I live?\n",
@@ -54,7 +45,16 @@ var questionAnswer = [{
    },
    {
    question: "Q.03. Do you know that where I learnt programing? \n",
-   answer: "Neog Camp"}];
+   answer: "Neog Camp"
+  },
+  {
+    question: "Q.04. Do you know that which is the first programing language I learn? \n",
+    answer: "JavaScript"
+   },
+   {
+    question: "Q.05. Do you know that who is my teacher? who Taught me programming? \n",
+    answer: "Tanay Pratap"
+   },];
 
 for(var i=0; i < questionAnswer.length; i++) {
   var currentQuestion = questionAnswer[i];
