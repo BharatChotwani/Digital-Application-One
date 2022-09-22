@@ -20,6 +20,6 @@ It will give a clear idea of who really knows me well!
 
 In the end don't forget to checkout your final score out of 5 points.
 
-###Teck-Stck
+### Teck-Stck
 - JavaScript
 - [ReadlineSync](https://www.npmjs.com/package/readline-sync)
