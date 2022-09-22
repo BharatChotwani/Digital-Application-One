@@ -1,4 +1,7 @@
 # How much do you know about me?
+
+![CLI app](CLI-app.png)
+
 Project Description:- In this project, this app is a quiz about me. This app is very simple I have used _**redlinesins**_ to take input from user.
 
 ## Information-about-project
